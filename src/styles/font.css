@@ -1,0 +1,26 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/K2DMedium.ttf"); font-family : "K2D"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/K2DRegular.ttf"); font-family : "K2D"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/K2DBold.ttf"); font-family : "K2D"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/K2DExtraBold.ttf"); font-family : "K2D"; font-weight : 800;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RedHatDisplayRomanMedium.ttf"); font-family : "Red Hat Display"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/K2DSemiBold.ttf"); font-family : "K2D"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterLight.ttf"); font-family : "Inter"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RedHatDisplayRomanLight.ttf"); font-family : "Red Hat Display"; font-weight : 300;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterExtraLight.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/K2DLight.ttf"); font-family : "K2D"; font-weight : 300;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RedHatDisplayRomanRegular.ttf"); font-family : "Red Hat Display"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RedHatDisplayRomanBold.ttf"); font-family : "Red Hat Display"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/HahmletBold.ttf"); font-family : "Hahmlet"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/HahmletRegular.ttf"); font-family : "Hahmlet"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/HahmletExtraBold.ttf"); font-family : "Hahmlet"; font-weight : 800;  }
+ @font-face { font-style : bold; src: url("assets/fonts/HahmletSemiBold.ttf"); font-family : "Hahmlet"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/HahmletMedium.ttf"); font-family : "Hahmlet"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/HahmletLight.ttf"); font-family : "Hahmlet"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/InterBlack.ttf"); font-family : "Inter"; font-weight : 900;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RedHatDisplayRomanSemiBold.ttf"); font-family : "Red Hat Display"; font-weight : 600;  }
